@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "JobHCAutomater",
+    "packageName": "com.hc.jobs",
+    "packageFolder": "com/hc/jobs",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.0",
+    "jwtSecretKey": "ZmFkNjdjMGI0OWQ3MjI0YmJjNDliZDlmYjcwNGRiNzZlNzRkOTBhNThiYzJhNGIxZmUyZDZiOWQ2NzRiZWYxNDI4MDZkMmUzN2M2MDc3ZDNkNTE0ZDM4Y2YzNGM0NzhjODJjNTNlNzU5Y2I5YWQxMTVhNTFkYjQ5YjcyMTAzNDc=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "ayoubb",
+  "repository-name": "JobHCAutomater"
+}
